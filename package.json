@@ -1,0 +1,23 @@
+{
+  "name": "stickBot",
+  "version": "0.1.0",
+  "description": "My Selfbot",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcumbers/stickBot.git"
+  },
+  "scripts": {
+    "test": "echo 'No test yet!'",
+    "start": "node app.js"
+  },
+  "author": "Michael Cumbers",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "komada": "github:dirigeants/komada"
+  },
+  "engines": {
+    "node": "^8.1.0"
+  }
+}
