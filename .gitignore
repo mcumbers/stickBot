@@ -1,0 +1,8 @@
+
+*.bak
+
+bwd/
+
+node_modules/
+
+botConfig.json
